@@ -1,0 +1,5 @@
+TenureGroup,employees,employees_left,attrition_rate
+0-2 years,342,102,29.82
+3-5 years,434,60,13.82
+6-10 years,448,55,12.28
+10+ years,246,20,8.13
